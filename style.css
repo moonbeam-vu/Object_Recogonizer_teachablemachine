@@ -1,0 +1,23 @@
+body{
+    background-color: #6ceb7d;
+}
+#title{
+    background-color: white;
+    font-size: 50px;
+    padding: 10px;
+}
+#model{
+    color: white;
+    font-size: 40px;
+}
+p{
+    font-size: 30px;
+}
+#webcam{
+    color: white;
+    border-style: dashed;
+    border-width: 10px;
+    width:300px;
+    height:300px;
+    border-color: #126915;
+}
